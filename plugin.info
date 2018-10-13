@@ -1,0 +1,7 @@
+{
+	"title": "$:/plugins/tiddlywiki/highlight",
+	"description": "Highlight.js: syntax highlighting (hljs: 9.12.0)",
+	"author": "JoaoBolila",
+	"core-version": ">=5.0.0",
+	"list": "readme usage license"
+}
